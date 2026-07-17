@@ -1,16 +1,16 @@
 {
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "Intercepting HTTP/HTTPS proxy + security toolkit (single static Go binary)",
   "homepage": "https://github.com/Veyal/interseptor",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Veyal/interseptor/releases/download/v1.5.3/interseptor_1.5.3_windows_amd64.zip",
-      "hash": "882931c3be2b4f76a40b4cfeab0374258878f60a1568abb52b809bcf4da7fe4a"
+      "url": "https://github.com/Veyal/interseptor/releases/download/v1.5.4/interseptor_1.5.4_windows_amd64.zip",
+      "hash": "d94ff93e9125adabc0c3a6fa0868771f969b4ca70b78d62c87f96f2655dcfd71"
     },
     "arm64": {
-      "url": "https://github.com/Veyal/interseptor/releases/download/v1.5.3/interseptor_1.5.3_windows_arm64.zip",
-      "hash": "55bcb8cdbcaa0498282e862ff570f8ece83331303f2003c3e4e33c6f1cf8c090"
+      "url": "https://github.com/Veyal/interseptor/releases/download/v1.5.4/interseptor_1.5.4_windows_arm64.zip",
+      "hash": "ebb588884855def8344f97217f649c4bc299ae32a01dc579f910c28f8e5da5ac"
     }
   },
   "bin": "interseptor.exe",
